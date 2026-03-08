@@ -1,5 +1,6 @@
 # Real-Estates-Analysis-dashboard-2011-2022-Tableau
 This project presents an interactive Tableau dashboard designed to analyze real estate transactions from 2011 to 2022. The dashboard provides insights into sales trends, town performance, property distribution, and sales ratios, helping stakeholders understand real estate market patterns and make data-driven decisions.
+
 <img width="1882" height="842" alt="image" src="https://github.com/user-attachments/assets/a59d8f6e-7c7a-4571-a580-2a3eb14ac90d" />
 <img width="1861" height="832" alt="image" src="https://github.com/user-attachments/assets/19ac404b-94f7-44a5-9374-e95a0cf0bc0b" />
 <img width="1842" height="832" alt="image" src="https://github.com/user-attachments/assets/facce953-54fe-4c60-86ec-ab16f123a216" />
